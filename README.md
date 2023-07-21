@@ -38,7 +38,7 @@ The link to Tableau Public is [here](https://public.tableau.com/app/profile/amel
 - The most common disposition of patients was to return home, and the second most common was to Children's or Cancer Centers.
 - The majority of patients visited healthcare facilities that were nonprofit corporations and limited liability corporations in California.
 <br>
-**NOTE**: Due to the utilization of a subset of the actual data, the analysis may not fully reflect reality. The analysis is primarily for demonstration purposes.
+NOTE: Due to the utilization of a subset of the actual data, the analysis may not fully reflect reality. The analysis is primarily for demonstration purposes.
 
 ### Future Improvements
 - While displaying the actual numbers of ED visits and ED admits provides more details, presenting the figures as percentages of the total visits could offer a better sense of proportion.
